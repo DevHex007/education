@@ -125,7 +125,7 @@
 /* MEDIA QUERYS (PHONE)*/
 @media screen and (max-width: 600px) {
     .achievement__cards {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 0.7rem;
     }
     .team__container {
